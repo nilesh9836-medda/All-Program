@@ -82,6 +82,7 @@ dkms.conf
 # Executables
 *.exe
 *.out
+*.out.exe
 *.app
 
 # Compiled class file
