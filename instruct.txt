@@ -1,2 +1,0 @@
-## Some instructions:
-- *.c files will be under 'cfile' branch.
