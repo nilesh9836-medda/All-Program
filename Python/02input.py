@@ -1,0 +1,6 @@
+a=input("Enter a number: ")
+b=input("Enter a float: ")
+c=input("Enter a character: ")
+print("You entered integer:", int(a))
+print("You entered float:", float(b))
+print("You entered character:", c)
