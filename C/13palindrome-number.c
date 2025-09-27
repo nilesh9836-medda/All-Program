@@ -12,9 +12,9 @@ int main() {
 		n=n/10;
 	}
 	if(num==sum)
-        printf("%d is a Perfect Number!!!\n",sum);
-    else
-        printf("%d is NOT a Perfect Number\n",sum);
+        	printf("%d is a Palindrome Number!!!\n",sum);
+    	else
+        	printf("%d is NOT a Palindrome Number\n",sum);
     
 	return 0;
 }
